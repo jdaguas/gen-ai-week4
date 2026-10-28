@@ -1,6 +1,6 @@
 # Three approaches to one application: Word Frequency Analyzer
 
-All three implementations solve the same core task, counting words, while differing in architecture and features.
+All three implementations solve the same core task: counting words.
 
 ## 1. By hand (beginner-level design)
 `python3 01_by_hand/analyzer.py`
